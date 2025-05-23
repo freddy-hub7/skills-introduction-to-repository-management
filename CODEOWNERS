@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @freddy-hub7
+/src/backend/database.py      @freddy-hub7
+/src/backend/routers/auth.py  @freddy-hub7
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @freddy-hub7
